@@ -1,0 +1,424 @@
+DB: engrafts_standard-marketing
+User: engrafts_standard-marketing
+Password: kNw(xj^gW#6y
+
+
+Hostiger Details:
+amit@freedoctor.world
+Amit@2024
+
+
+Github Details:
+amit@freedoctor.world
+Freeamit@2024
+
+AWS Details:
+https://486796710557.signin.aws.amazon.com/console
+amit
+Free@2023
+
+SSH Details: 54.234.215.192/ubuntu/Ind@8888
+
+
+Gmail Details:
+amit@freedoctor.world
+Free@2023
+
+MYSQL Detail:
+debian-sys-maint/tSJ35rwwg8dAX3Er
+
+https://freedoctor.world/index.php/login-3/?redirect_to=https%3A%2F%2Ffreedoctor.world
+admin/H2TtrF10Vm
+
+4160 2108 5832 5924
+
+mco5@theparkpriviera.com
+support.cor@theparkpriviera.com
+
+
+.et_pb_blog_grid .et_pb_post {
+    border: 1px solid #d8d8d8;
+    padding: 19px;
+    background-color: #fff;
+    word-wrap: break-word;
+}
+VJ Flat Sizes:
+1.Entry Lobby:5.7 * 4
+2.Hall: 17 * 10.6
+3.Puja: 2.2 * 3
+4.Hally Balcony: 8.9 * 5
+5.Kids Bedroom: 10 * 10
+6.Common Bath: 6 * 4.5
+7.Master Bedroom:10 * 13.3
+8.Master Bath: 4.5 * 7.7
+9.Master Bedroom Balcony: 5 * 5
+10.Kitchen: 8.10 * 7.10
+11.Kitchen Dry Balcony: 3.2 * 7.8
+
+Hall:
+1.TV UNIT
+2.Modeling
+3.Manadir 
+4.Door Frame
+5.Shoe Rack with Decorative wall 
+6.Basin Under-door +Storage box 
+5.Inverter Door 
+
+Kitchen:
+1.Kitchen Trolley(Tandum+SS)Acylic Glass
+2.Crokery UNIT
+3.LOFT
+4.Dry Balcony Door
+5.Dry Balcony Storage BOX 
+
+Master Bedroom:
+1.Sliding Wardroop
+2.Hydraulic Bed 
+3.Foldabale Study Table
+4.Single Wardroop
+5.Dresser 
+6.LOFT 
+7.Side Table 
+
+Children Bedroom
+1.Hydraulic Bed 
+2.Single Wardroop
+3.Study Table with storage
+4.Sit out Area 
+5.LOFT 
+
+2BHK PUP
+Electrical + Lights+Profile Light 
+Paint: Royal Luster
+Fabric Sheet 
+Channel: Hettich 
+Hinges: Hettich
+Hydraulic Pump: ROMA 
+Laminate: Royal Touch 2500 RS 
+BWR PLY:Alternate Gurjan 
+1MM inside and outside laminate
+SAINT GOBAIN GYPROX SHEET
+Expert Channel
+POLYCAB WIRES
+WIPRO/SKYSKA LIGHTS
+FALCOFIX FEVICOL
+
+
+Solr
+Indexer Solr
+Cron Indexer 
+
+JDK and Solr:
+https://wiki.ariba.com/display/ENGPRJ/AUC+JDK%2C+Solr+upgrade
+https://wiki.ariba.com/pages/viewpage.action?spaceKey=ENGPRJ&title=JDK+1.8+upgrade+to+JDK+17+configurations
+
+<a href="tel:6177787312"></a> 
+
+tel:2897698880
+
+
+dhanashree.shinde@javdekars.com
+vjparivaar.helpdesk@javdekars.com
+
+trupti.kate@javdekars.com
+anand.pitre@javdekars.com
+aditya.javdekar@javdekars.com
+
+helpdesk@maharera.mahaonline.com
+
+
+1.	
+2.	monospaceadding the below lines of code in the APACHE CONF file
+      
+       Timeout 2400
+          ProxyTimeout 2400
+          ProxyBadHeader Ignore 
+
+
+1. Which plywood will be used for furniture
+alternate: 60RS
+gurjan:
+2. Quality/Brand name of plywood , hardware, laminate/acrylic sheets, 
+Hardware: Ebcco,Hettich,Godrej
+3. Brand of electrical lights/wiring , Watt capacity also
+PolyCab,Havels,KEI,
+PUP Lights: Orients,KL
+WATT: 15-20
+Profile Light/LED Strip:KL
+4. Paint
+Wall:Asian Premium Emulsion/water
+Celing: Tractor Emilsion/water
+5. Sample designs of flat
+6. Deadline to complete work :
+70 Days (Min 45 days)
+7. How many years of warranty on all furnitures?
+8. Customisation in brands?
+9. What is range of fabric(Price range of fabric)?
+10. Price range for laminate?
+1800-2000
+
+
+Email Id and Password
+
+cs@aurangabaddistillery.com
+CompanySecretary@123456
+
+md@aurangabaddistillery.com
+ManagingDirector@123456
+
+info@aurangabaddistillery.com
+AurangabadDistillery@123456
+
+qc@aurangabaddistillery.com
+#200@Qcadl
+
+chairman@aurangabaddistillery.com
+#200@Chairman
+
+purchase@aurangabaddistillery.com
+#200@Purchase
+
+production@aurangabaddistillery.com
+#200@Production
+
+sales@aurangabaddistillery.com
+#200@Sales
+
+accounts@aurangabaddistillery.com
+#200@Accounts
+
+MX Record for bluehost:
+mail.aurangabaddistillery.com
+SRV Record for bluehost:
+cpanelemaildiscovery.cpanel.net
+
+
+
+Society name - Riverdale Unity, kharadi
+1 Bhk flat on Rent. 3rd Floor and flat no 306
+
+details-
+1.Safety Door 
+2.Modular Kitchen,Crokery Unit
+3.Electric Geyser
+4.Fans and led light, Bulbs
+5.Curtain rods with curtain
+6.BED
+7.Cloth hanger in balcony
+8.RO installed
+9.Exhuast Fan Kitchen
+10.TV unit
+11.BED
+12.Cupboard with Dresser
+13.Bedroom Loft 
+14.GAS Stove
+15.Computer Table 
+16.Washbasin Storage with Glass
+17.Bathroom Accessories 
+18.Shoe Rack
+19.Easy Dry with Stand in Balcony 
+
+Semi furnished 
+Rent- 26k
+Security deposit- 75k
+Possession date- 20 March 2024
+Tenant type- Family prefered 
+
+Owner :- Amit Lokulwar 9028291825
+
+
+मी, अमित कमलाकर लोकुलवार , या संस्थेचे अध्यक्ष, मी तुमचा  आभारी आहे आणि तुमच्या संघटनेच्या योग्यतेसाठी  शिव जयंती साजरी केली असल्याची स्पष्टता सांगायला मला अत्यंत आनंद होतो.
+
+तुमच्या समुहाच्या तत्परतेचे आणि सतत प्रयत्नांनी ही आयोजनांना एक विशिष्ट प्रतिष्ठा प्राप्त झाली आहे. एक संस्थेचे अध्यक्ष म्हणून, मी ही आपली सहकार्य क्षमता आणि कृतज्ञता व्यक्त करण्यात मोठी आनंद वाटते.
+
+शिव जयंती साजरी करण्यासाठी संघटनेच्या सार्थक नामवंत आणि प्रेमात वाढवून घेण्याचा तुमचा प्रयत्न अजूनही वाटतंय. 
+
+आपल्या सर्वांनी या उत्सवाला सजीव करण्याचा प्रयत्न केला, त्याचे अभिनंदन! तुमच्या सतत प्रेरणा आणि दृढ संकल्पाने ह्या सजीवीकरणातून शिव जयंतीचं उत्कृष्टत्व आणि रम्यता बघून संघटनेतील सर्व सदस्यांचं मन प्रसन्न होतंय.
+
+आपल्या सर्व सदस्यांचा तत्परता, व यशस्वी संघटनेसाठी योगदानासाठी तुम्हाला माझे खूप आभार. भविष्यात अधिक सफल आणि मनोहर इवेंट्ससाठी आपल्या सक्रीय सहभागीतेची अपेक्षा आहे.
+
+आपल्या संघटनेचं अध्यक्ष,
+अमित कमलाकर लोकुलवार
+
+
+To - vjparivaar.helpdesk@javdekars.com
+Cc - trupti.kate@javdekars.com
+anand.pitre@javdekars.com
+aditya.javdekar@javdekars.com
+
+
+*TechM having opening for Drupal Lead & Drupal Architect.*
+*NP: 30 Days*
+*Location: PAN INDIA*
+*Interested people can send resume on al00979694@techmahindra.com*
+
+
+Pune to Jaipur 24091.5
+Udipur to Pune 34383
+
+58474.5
+
+JO
+1922928	988520
+
+
+
+
+qconveyancing Details:
+
+DB: engrafts_qconveyancing
+user: engrafts_qconveyancing
+Password: -O@UjL7z2VbI
+
+Wp-Admin Details:
+https://qconveyancing.com/wp-admin
+admin
+M0TdW5!niDcw%MFkIwJ*d^ss
+
+paul.joseph@qconveyancing.com
+
+OLD: 160.153.62.193
+
+DNS records for qconveyancing.com
+
+
+A record
+Host: @
+Value: 119.18.49.46 
+TTL: Default
+
+A record
+Host: www
+Value: 119.18.49.46 
+TTL: Default
+
+100023666470
+
+
+OLD IP:192.124.249.107
+
+
+🌟🌟🌟Dear sir,
+Engraft Solutions provides comprehensive and integrated IT services that includes Web design and development, Mobile application development, SEO & SMO, Web maintenance and hosting in Minimum Cost .🌟🌟🌟
+
+GET BEST QUALITY PROFESSIONAL WEBSITE @ JUST RS. 4,999/- IN 24 HOURS
+
+✅4 Page Site
+✅WhatsApp Chat link
+✅User Friendly Website
+✅Mobile Friendly Website
+✅Unlimited Images
+✅Quick Enquiry Form + Google Map 
+✅24/7 Support (Phone/Email/Chat) 
+✅Phone Support Available in Hindi + English 
+
+📣📣📣GET ECOMMERCE WEBSITE @ JUST RS. 19,999/- IN 7 Days
+👉Static + Informational Website 5 pages @ Rs. 5999/-
+👉Dynamic Website upto 5 page  @ Rs. 6999/-
+👉News Portal + Blog + Real State + Event Management Website @ Rs. 14999/-
+👉Ecommerce Website with web view Android app @ Rs. 31999/-
+👉School Management + Travel & Tour + Matrimonial + Commercial Website + MLM Portal @ Rs.24999/-
+
+✨Our Services
+👉Web Design 
+👉Web Development
+👉Mobile Applications 
+👉SEO & SMO & Digital Marketing Services
+👉Web Maintenance
+👉Website Hosting
+👉Professional Course & Traning 
+👉Promo / Trans / Open DND / OTP SMs
+👉Whois Domain Database 
+
+📞 7447361553 | 9028291825
+Whats App : 7447361553 | 9028291825
+Email Us : info.engraftsolutions@gmail.com | chintawar.ankita@gmail.com
+🌐https://engraftsolutions.com/
+
+
+Hi Dear,
+
+I am Wordpress Expert having more than 11 + Year of experience. I am interested for Freelancing work.
+Can we connect for more details.
+
+Regards,
+Amit Lokulwar
+(9028291825)
+
+
+Tech Mahindra Ltd. Electronic City Campus No. 45, KIADB Industrial Area, Electronic City Phase - II Bangalore 560100 (Karnataka) India
+
+SAP Labs India Pvt. Ltd. Bengaluru. #138, EPIP Zone Whitefield Bengaluru - 560066.
+
+GS00572952@techmahindra.com
+
+vaishuap123@gmail.com
+
+
+MX Record
+Host Name: @
+Points to address or value: ms17039379.msv1.invalid
+Priority: 32767
+TTL: 3600 (or your provider default)
+
+TXT name: @
+TXT value: MS=ms17039379
+TTL: 3600 (or your provider default)
+
+
+info@irmaoscrownservices.in
+
+
+$s="amit";
+$pal="";
+$i=0;
+$l=0;
+while($s[$i]!=NULL){
+    $l++;
+    $i++;
+}
+echo "String Length:".$l;
+for($j=$l;$j>=0;$j--)
+{
+    $pal .=$s[$j];
+}
+echo "\nRev String: ".$pal;
+
+Travel ID: 0000931051
+Report ID: 0230184714
+
+https://sap-my.sharepoint.com/:v:/p/sowjanya_botla/ES7GaXZ8IR9OkV7gM5lMNKEBesNhV_6OIersjBFIEOahpA?referrer=Teams.TEAMS-ELECTRON&referrerScenario=MeetingChicletGetLink.view.view
+
+
+7703959547 Amit Painter
+02244104444 Porter
+
+Report ID: 0230184714 gs00572952@techmahindra.com
+0230188490 balasubramanian.s@techmahindra.com  13846  IXIFT00002261483
+0230186417 balasubramanian.s@techmahindra.com
+
+
+HRA Deducation 0
+Loss from house property: 2 Lakhs or u cosider 121455
+80C and 80D : 349818 and u consider 224818
+
+
+Comment
+1.Kindly claim the expenses in correct head , stay under A05, food under A07.
+2. Kindly claim the cab expesne as per bill amount , not refund amount too , also attach payment recipt if cash is mentioned in bill.
+3. For cab bills like OLA/uber/Meru  Kindly write the bill no as per format the bill no DDMMYYAMOUNT , for example date is 15 june 2023 and amount is 225.00 tha bill no will be 15062322500
+4. Kindly attach E tarvel mail for stay confirmation(Hotel booking mail sent by CS)
+09 march 24 2123 0903242123
+06 march 24 127  
+
+For any query please feel free to contact to Gaganpreet Singh(GS00572952@techmahindra.com
+
+1.Drupal 7 to Drupal 9 Migration
+2.We used Apache Solr
+3.We used deployment for Jenkins and other tools
+4.GCP we used for cloud platform.
+5.PostgresSQL used for database.
+6.Angular used in this project.
+
+
+2.
